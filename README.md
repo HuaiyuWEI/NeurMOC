@@ -11,6 +11,9 @@ external datasets (CMIP6 simulations, satellite products, and in situ
 observations) that are not included, and it is not packaged to run as a
 standalone workflow.
 
+The reconstruction can also be explored in the
+[interactive viewer](https://huaiyuwei.github.io/neurmoc/).
+
 ## Where each part of the method is implemented
 
 | Manuscript section (Materials and Methods) | Code |
@@ -30,5 +33,4 @@ standalone workflow.
 
 The reconstruction is provided as [NetCDF](data/NeurMOC_data.nc), with a
 [MATLAB-format copy](data/NeurMOC_data.mat). See the [data notes](data/README.md)
-for the contents. The reconstruction can also be explored in the
-[interactive viewer](https://huaiyuwei.github.io/neurmoc/).
+for the contents. 
