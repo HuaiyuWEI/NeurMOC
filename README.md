@@ -30,4 +30,5 @@ standalone workflow.
 
 The reconstruction is provided as [NetCDF](data/NeurMOC_data.nc), with a
 [MATLAB-format copy](data/NeurMOC_data.mat). See the [data notes](data/README.md)
-for the contents. 
+for the contents. The reconstruction can also be explored in the
+[interactive viewer](https://huaiyuwei.github.io/neurmoc/).
