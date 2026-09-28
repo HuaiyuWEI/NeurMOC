@@ -1,3 +1,5 @@
+https://doi.org/10.5281/zenodo.22969710
+
 # NeurMOC
 
 This repository contains the code and data accompanying the NeurMOC
