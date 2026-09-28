@@ -1,4 +1,4 @@
-# NeurMOC reconstruction, version 1.0
+# NeurMOC reconstruction
 
 These files contain the NeurMOC reconstruction for April 2003–December 2024,
 based on JPL GRACE/GRACE-FO ocean bottom pressure, DUACS sea surface height,
